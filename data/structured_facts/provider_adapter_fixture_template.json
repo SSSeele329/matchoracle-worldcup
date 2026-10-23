@@ -1,0 +1,88 @@
+{
+  "provider": {
+    "providerId": "template_structured_facts_adapter",
+    "category": "STRUCTURED_FACT_DATA_SOURCE",
+    "mode": "adapter_fixture_template",
+    "contractVersion": "provider-contract-v1",
+    "productionReady": false
+  },
+  "source": "template_structured_facts_adapter_output",
+  "snapshotTime": "2026-06-01T12:00:00+00:00",
+  "rawPayloadHash": "sha256:replace-with-external-raw-payload-hash",
+  "rawPayloadRef": "external-raw-payload-reference",
+  "auditContext": {
+    "purpose": "adapter_fixture_template",
+    "notOfficialData": true,
+    "adapterOutput": true,
+    "dataPolicy": "Synthetic template rows only; replace with normalized provider facts after local mapping review.",
+    "rawBodyPolicy": "Do not inline raw provider bodies in this payload; store them outside this JSON and reference hash/ref only."
+  },
+  "facts": {
+    "fixtures": [
+      {
+        "matchId": "template-match-001",
+        "homeTeam": "Template Home",
+        "awayTeam": "Template Away",
+        "stage": "GROUP_STAGE",
+        "venue": "Template Venue",
+        "kickoffAt": "2026-06-12T20:00:00+00:00",
+        "notOfficialData": true
+      }
+    ],
+    "kickoff_time": [
+      {
+        "matchId": "template-match-001",
+        "kickoffAt": "2026-06-12T20:00:00+00:00",
+        "timezone": "UTC",
+        "notOfficialData": true
+      }
+    ],
+    "match_status": [
+      {
+        "matchId": "template-match-001",
+        "status": "SCHEDULED",
+        "period": "PREMATCH",
+        "notOfficialData": true
+      }
+    ],
+    "official_lineups": [
+      {
+        "matchId": "template-match-001",
+        "homeTeam": "Template Home",
+        "awayTeam": "Template Away",
+        "homeStarters": [
+          "HOME_TEMPLATE_GK",
+          "HOME_TEMPLATE_DF1",
+          "HOME_TEMPLATE_DF2",
+          "HOME_TEMPLATE_DF3",
+          "HOME_TEMPLATE_DF4",
+          "HOME_TEMPLATE_MF1",
+          "HOME_TEMPLATE_MF2",
+          "HOME_TEMPLATE_MF3",
+          "HOME_TEMPLATE_FW1",
+          "HOME_TEMPLATE_FW2",
+          "HOME_TEMPLATE_FW3"
+        ],
+        "awayStarters": [
+          "AWAY_TEMPLATE_GK",
+          "AWAY_TEMPLATE_DF1",
+          "AWAY_TEMPLATE_DF2",
+          "AWAY_TEMPLATE_DF3",
+          "AWAY_TEMPLATE_DF4",
+          "AWAY_TEMPLATE_MF1",
+          "AWAY_TEMPLATE_MF2",
+          "AWAY_TEMPLATE_MF3",
+          "AWAY_TEMPLATE_FW1",
+          "AWAY_TEMPLATE_FW2",
+          "AWAY_TEMPLATE_FW3"
+        ],
+        "confirmedAt": "2026-06-12T19:00:00+00:00",
+        "notOfficialData": true
+      }
+    ],
+    "scores": [],
+    "standings": [],
+    "cards": [],
+    "market_odds_snapshots": []
+  }
+}

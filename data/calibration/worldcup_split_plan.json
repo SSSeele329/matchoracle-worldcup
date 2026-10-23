@@ -1,0 +1,17 @@
+{
+  "purpose": "Use 2014 and 2018 as calibration years, then keep 2022 as a blind test year.",
+  "calibrationYears": [2014, 2018],
+  "blindTestYear": 2022,
+  "matchFiles": {
+    "2014": "wc2014_matches_openfootball.json",
+    "2018": "wc2018_matches_openfootball.json",
+    "2022": "wc2022_matches_openfootball.json"
+  },
+  "rules": [
+    "Do not tune model parameters on 2022 match outcomes.",
+    "Only use features that were available before kickoff for each match.",
+    "Use 90-minute regular-time scores for 1X2 and score calibration.",
+    "Store extra-time and penalty data separately from regular-time scores."
+  ],
+  "currentStatus": "Elo plus rolling international-results attack/defense/form proxy is available; derived F05/F06 tournament context exists but is experimental; lineup, odds, tactical continuity, and bench-depth layers remain incomplete"
+}

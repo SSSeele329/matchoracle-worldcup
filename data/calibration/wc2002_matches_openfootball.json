@@ -1,0 +1,1312 @@
+[
+  {
+    "matchId": "WC2002-001",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Senegal",
+    "date": "2002-05-31",
+    "time": "",
+    "group": "Group A",
+    "venue": "Seoul World Cup Stadium, Seoul",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-002",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Denmark",
+    "date": "2002-06-01",
+    "time": "",
+    "group": "Group A",
+    "venue": "Munsu Cup Stadium, Ulsan",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-003",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Uruguay",
+    "date": "2002-06-06",
+    "time": "",
+    "group": "Group A",
+    "venue": "Asiad Main Stadium, Busan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-004",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Denmark",
+    "awayTeam": "Senegal",
+    "date": "2002-06-06",
+    "time": "",
+    "group": "Group A",
+    "venue": "Daegu World Cup Stadium, Daegu",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-005",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Denmark",
+    "awayTeam": "France",
+    "date": "2002-06-11",
+    "time": "",
+    "group": "Group A",
+    "venue": "Incheon Munhak Stadium, Incheon",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-006",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Senegal",
+    "awayTeam": "Uruguay",
+    "date": "2002-06-11",
+    "time": "",
+    "group": "Group A",
+    "venue": "Suwon World Cup Stadium, Suwon",
+    "actualScore": {
+      "home": 3,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-007",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Paraguay",
+    "awayTeam": "South Africa",
+    "date": "2002-06-02",
+    "time": "",
+    "group": "Group B",
+    "venue": "Asiad Main Stadium, Busan",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-008",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Slovenia",
+    "date": "2002-06-02",
+    "time": "",
+    "group": "Group B",
+    "venue": "Gwangju World Cup Stadium, Gwangju",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-009",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Paraguay",
+    "date": "2002-06-07",
+    "time": "",
+    "group": "Group B",
+    "venue": "Jeonju World Cup Stadium, Jeonju",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-010",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "South Africa",
+    "awayTeam": "Slovenia",
+    "date": "2002-06-08",
+    "time": "",
+    "group": "Group B",
+    "venue": "Daegu World Cup Stadium, Daegu",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-011",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "South Africa",
+    "awayTeam": "Spain",
+    "date": "2002-06-12",
+    "time": "",
+    "group": "Group B",
+    "venue": "Daejeon World Cup Stadium, Daejeon",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-012",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Slovenia",
+    "awayTeam": "Paraguay",
+    "date": "2002-06-12",
+    "time": "",
+    "group": "Group B",
+    "venue": "Jeju World Cup Stadium, Jeju",
+    "actualScore": {
+      "home": 1,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-013",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Turkey",
+    "date": "2002-06-03",
+    "time": "",
+    "group": "Group C",
+    "venue": "Munsu Cup Stadium, Ulsan",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-014",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "China",
+    "awayTeam": "Costa Rica",
+    "date": "2002-06-04",
+    "time": "",
+    "group": "Group C",
+    "venue": "Gwangju World Cup Stadium, Gwangju",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-015",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "China",
+    "date": "2002-06-08",
+    "time": "",
+    "group": "Group C",
+    "venue": "Jeju World Cup Stadium, Jeju",
+    "actualScore": {
+      "home": 4,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-016",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Turkey",
+    "date": "2002-06-09",
+    "time": "",
+    "group": "Group C",
+    "venue": "Incheon Munhak Stadium, Incheon",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-017",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Brazil",
+    "date": "2002-06-13",
+    "time": "",
+    "group": "Group C",
+    "venue": "Suwon World Cup Stadium, Suwon",
+    "actualScore": {
+      "home": 2,
+      "away": 5
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-018",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Turkey",
+    "awayTeam": "China",
+    "date": "2002-06-13",
+    "time": "",
+    "group": "Group C",
+    "venue": "Seoul World Cup Stadium, Seoul",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-019",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Poland",
+    "date": "2002-06-04",
+    "time": "",
+    "group": "Group D",
+    "venue": "Asiad Main Stadium, Busan",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-020",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "USA",
+    "awayTeam": "Portugal",
+    "date": "2002-06-05",
+    "time": "",
+    "group": "Group D",
+    "venue": "Suwon World Cup Stadium, Suwon",
+    "actualScore": {
+      "home": 3,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-021",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "USA",
+    "date": "2002-06-10",
+    "time": "",
+    "group": "Group D",
+    "venue": "Daegu World Cup Stadium, Daegu",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-022",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Poland",
+    "date": "2002-06-10",
+    "time": "",
+    "group": "Group D",
+    "venue": "Jeonju World Cup Stadium, Jeonju",
+    "actualScore": {
+      "home": 4,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-023",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Korea Republic",
+    "date": "2002-06-14",
+    "time": "",
+    "group": "Group D",
+    "venue": "Incheon Munhak Stadium, Incheon",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-024",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Poland",
+    "awayTeam": "USA",
+    "date": "2002-06-14",
+    "time": "",
+    "group": "Group D",
+    "venue": "Daejeon World Cup Stadium, Daejeon",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-025",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ireland",
+    "awayTeam": "Cameroon",
+    "date": "2002-06-01",
+    "time": "",
+    "group": "Group E",
+    "venue": "Niigata Stadium, Niigata",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-026",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Saudi Arabia",
+    "date": "2002-06-01",
+    "time": "",
+    "group": "Group E",
+    "venue": "Sapporo Dome, Sapporo",
+    "actualScore": {
+      "home": 8,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-027",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Ireland",
+    "date": "2002-06-05",
+    "time": "",
+    "group": "Group E",
+    "venue": "Kashima Soccer Stadium, Ibaraki",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-028",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Saudi Arabia",
+    "date": "2002-06-06",
+    "time": "",
+    "group": "Group E",
+    "venue": "Saitama Stadium, Saitama",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-029",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Germany",
+    "date": "2002-06-11",
+    "time": "",
+    "group": "Group E",
+    "venue": "Shizuoka Stadium, Shizuoka",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-030",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Ireland",
+    "date": "2002-06-11",
+    "time": "",
+    "group": "Group E",
+    "venue": "International Stadium Yokohama, Yokohama",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-031",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "Sweden",
+    "date": "2002-06-02",
+    "time": "",
+    "group": "Group F",
+    "venue": "Saitama Stadium, Saitama",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-032",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Nigeria",
+    "date": "2002-06-02",
+    "time": "",
+    "group": "Group F",
+    "venue": "Kashima Soccer Stadium, Ibaraki",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-033",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Sweden",
+    "awayTeam": "Nigeria",
+    "date": "2002-06-07",
+    "time": "",
+    "group": "Group F",
+    "venue": "Kobe Wing Stadium, Kobe",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-034",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "England",
+    "date": "2002-06-07",
+    "time": "",
+    "group": "Group F",
+    "venue": "Sapporo Dome, Sapporo",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-035",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Sweden",
+    "awayTeam": "Argentina",
+    "date": "2002-06-12",
+    "time": "",
+    "group": "Group F",
+    "venue": "Miyagi Stadium, Miyagi",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-036",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Nigeria",
+    "awayTeam": "England",
+    "date": "2002-06-12",
+    "time": "",
+    "group": "Group F",
+    "venue": "Nagai Stadium, Osaka",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-037",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Mexico",
+    "date": "2002-06-03",
+    "time": "",
+    "group": "Group G",
+    "venue": "Niigata Stadium, Niigata",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-038",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "Ecuador",
+    "date": "2002-06-03",
+    "time": "",
+    "group": "Group G",
+    "venue": "Sapporo Dome, Sapporo",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-039",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "Croatia",
+    "date": "2002-06-08",
+    "time": "",
+    "group": "Group G",
+    "venue": "Kashima Soccer Stadium, Ibaraki",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-040",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "date": "2002-06-09",
+    "time": "",
+    "group": "Group G",
+    "venue": "Miyagi Stadium, Miyagi",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-041",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Italy",
+    "date": "2002-06-13",
+    "time": "",
+    "group": "Group G",
+    "venue": "Ōita Stadium, Ōita",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-042",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Croatia",
+    "date": "2002-06-13",
+    "time": "",
+    "group": "Group G",
+    "venue": "International Stadium Yokohama, Yokohama",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-043",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Belgium",
+    "date": "2002-06-04",
+    "time": "",
+    "group": "Group H",
+    "venue": "Saitama Stadium, Saitama",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-044",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Russia",
+    "awayTeam": "Tunisia",
+    "date": "2002-06-05",
+    "time": "",
+    "group": "Group H",
+    "venue": "Kobe Wing Stadium, Kobe",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-045",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Russia",
+    "date": "2002-06-09",
+    "time": "",
+    "group": "Group H",
+    "venue": "International Stadium Yokohama, Yokohama",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-046",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Belgium",
+    "date": "2002-06-10",
+    "time": "",
+    "group": "Group H",
+    "venue": "Ōita Stadium, Ōita",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-047",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Japan",
+    "date": "2002-06-14",
+    "time": "",
+    "group": "Group H",
+    "venue": "Nagai Stadium, Osaka",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-048",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Belgium",
+    "awayTeam": "Russia",
+    "date": "2002-06-14",
+    "time": "",
+    "group": "Group H",
+    "venue": "Shizuoka Stadium, Shizuoka",
+    "actualScore": {
+      "home": 3,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-049",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Germany",
+    "awayTeam": "Paraguay",
+    "date": "2002-06-15",
+    "time": "",
+    "group": null,
+    "venue": "Jeju World Cup Stadium, Jeju",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-050",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Denmark",
+    "awayTeam": "England",
+    "date": "2002-06-15",
+    "time": "",
+    "group": null,
+    "venue": "Niigata Stadium, Niigata",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-051",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Sweden",
+    "awayTeam": "Senegal",
+    "date": "2002-06-16",
+    "time": "",
+    "group": null,
+    "venue": "Ōita Stadium, Ōita",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  {
+    "matchId": "WC2002-052",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Spain",
+    "awayTeam": "Ireland",
+    "date": "2002-06-16",
+    "time": "",
+    "group": null,
+    "venue": "Suwon World Cup Stadium, Suwon",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 3,
+      "away": 2
+    },
+    "penaltyWinner": "Spain"
+  },
+  {
+    "matchId": "WC2002-053",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Mexico",
+    "awayTeam": "USA",
+    "date": "2002-06-17",
+    "time": "",
+    "group": null,
+    "venue": "Jeonju World Cup Stadium, Jeonju",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-054",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Belgium",
+    "date": "2002-06-17",
+    "time": "",
+    "group": null,
+    "venue": "Kobe Wing Stadium, Kobe",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-055",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Japan",
+    "awayTeam": "Turkey",
+    "date": "2002-06-18",
+    "time": "",
+    "group": null,
+    "venue": "Miyagi Stadium, Miyagi",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-056",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Italy",
+    "date": "2002-06-18",
+    "time": "",
+    "group": null,
+    "venue": "Daejeon World Cup Stadium, Daejeon",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "matchId": "WC2002-057",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "England",
+    "awayTeam": "Brazil",
+    "date": "2002-06-21",
+    "time": "",
+    "group": null,
+    "venue": "Shizuoka Stadium, Shizuoka",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-058",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Germany",
+    "awayTeam": "USA",
+    "date": "2002-06-21",
+    "time": "",
+    "group": null,
+    "venue": "Munsu Cup Stadium, Ulsan",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-059",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Spain",
+    "awayTeam": "Korea Republic",
+    "date": "2002-06-22",
+    "time": "",
+    "group": null,
+    "venue": "Gwangju World Cup Stadium, Gwangju",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 3,
+      "away": 5
+    },
+    "penaltyWinner": "Korea Republic"
+  },
+  {
+    "matchId": "WC2002-060",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Senegal",
+    "awayTeam": "Turkey",
+    "date": "2002-06-22",
+    "time": "",
+    "group": null,
+    "venue": "Nagai Stadium, Osaka",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  {
+    "matchId": "WC2002-061",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "Germany",
+    "awayTeam": "Korea Republic",
+    "date": "2002-06-25",
+    "time": "",
+    "group": null,
+    "venue": "Seoul World Cup Stadium, Seoul",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-062",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "Brazil",
+    "awayTeam": "Turkey",
+    "date": "2002-06-26",
+    "time": "",
+    "group": null,
+    "venue": "Saitama Stadium, Saitama",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-063",
+    "stage": "Third place play-off",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Turkey",
+    "date": "2002-06-29",
+    "time": "",
+    "group": null,
+    "venue": "Daegu World Cup Stadium, Daegu",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2002-064",
+    "stage": "FINAL",
+    "homeTeam": "Germany",
+    "awayTeam": "Brazil",
+    "date": "2002-06-30",
+    "time": "",
+    "group": null,
+    "venue": "International Stadium Yokohama, Yokohama",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2002/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  }
+]

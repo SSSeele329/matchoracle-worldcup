@@ -1,0 +1,1327 @@
+[
+  {
+    "matchId": "WC2022-001",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Qatar",
+    "awayTeam": "Ecuador",
+    "date": "2022-11-20",
+    "time": "19:00",
+    "group": "Group A",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-002",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Senegal",
+    "awayTeam": "Netherlands",
+    "date": "2022-11-21",
+    "time": "19:00",
+    "group": "Group A",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-003",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Qatar",
+    "awayTeam": "Senegal",
+    "date": "2022-11-25",
+    "time": "16:00",
+    "group": "Group A",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 1,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-004",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Ecuador",
+    "date": "2022-11-25",
+    "time": "19:00",
+    "group": "Group A",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-005",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Senegal",
+    "date": "2022-11-29",
+    "time": "18:00",
+    "group": "Group A",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-006",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Qatar",
+    "date": "2022-11-29",
+    "time": "18:00",
+    "group": "Group A",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-007",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "Iran",
+    "date": "2022-11-21",
+    "time": "16:00",
+    "group": "Group B",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 6,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-008",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "USA",
+    "awayTeam": "Wales",
+    "date": "2022-11-21",
+    "time": "22:00",
+    "group": "Group B",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-009",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Wales",
+    "awayTeam": "Iran",
+    "date": "2022-11-25",
+    "time": "13:00",
+    "group": "Group B",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-010",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "USA",
+    "date": "2022-11-25",
+    "time": "22:00",
+    "group": "Group B",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-011",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Wales",
+    "awayTeam": "England",
+    "date": "2022-11-29",
+    "time": "22:00",
+    "group": "Group B",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-012",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Iran",
+    "awayTeam": "USA",
+    "date": "2022-11-29",
+    "time": "22:00",
+    "group": "Group B",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-013",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Saudi Arabia",
+    "date": "2022-11-22",
+    "time": "13:00",
+    "group": "Group C",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-014",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Poland",
+    "date": "2022-11-22",
+    "time": "19:00",
+    "group": "Group C",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-015",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Poland",
+    "awayTeam": "Saudi Arabia",
+    "date": "2022-11-26",
+    "time": "16:00",
+    "group": "Group C",
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-016",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "date": "2022-11-26",
+    "time": "22:00",
+    "group": "Group C",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-017",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Poland",
+    "awayTeam": "Argentina",
+    "date": "2022-11-30",
+    "time": "22:00",
+    "group": "Group C",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-018",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Mexico",
+    "date": "2022-11-30",
+    "time": "22:00",
+    "group": "Group C",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-019",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Denmark",
+    "awayTeam": "Tunisia",
+    "date": "2022-11-22",
+    "time": "16:00",
+    "group": "Group D",
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-020",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Australia",
+    "date": "2022-11-22",
+    "time": "22:00",
+    "group": "Group D",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 4,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-021",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Australia",
+    "date": "2022-11-26",
+    "time": "13:00",
+    "group": "Group D",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-022",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Denmark",
+    "date": "2022-11-26",
+    "time": "19:00",
+    "group": "Group D",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-023",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Australia",
+    "awayTeam": "Denmark",
+    "date": "2022-11-30",
+    "time": "18:00",
+    "group": "Group D",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-024",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Tunisia",
+    "awayTeam": "France",
+    "date": "2022-11-30",
+    "time": "18:00",
+    "group": "Group D",
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-025",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Japan",
+    "date": "2022-11-23",
+    "time": "16:00",
+    "group": "Group E",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-026",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Costa Rica",
+    "date": "2022-11-23",
+    "time": "19:00",
+    "group": "Group E",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 7,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-027",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Costa Rica",
+    "date": "2022-11-27",
+    "time": "13:00",
+    "group": "Group E",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-028",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Germany",
+    "date": "2022-11-27",
+    "time": "22:00",
+    "group": "Group E",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-029",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Spain",
+    "date": "2022-12-01",
+    "time": "22:00",
+    "group": "Group E",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-030",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Germany",
+    "date": "2022-12-01",
+    "time": "22:00",
+    "group": "Group E",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 2,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-031",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Morocco",
+    "awayTeam": "Croatia",
+    "date": "2022-11-23",
+    "time": "13:00",
+    "group": "Group F",
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-032",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Belgium",
+    "awayTeam": "Canada",
+    "date": "2022-11-23",
+    "time": "22:00",
+    "group": "Group F",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-033",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Belgium",
+    "awayTeam": "Morocco",
+    "date": "2022-11-27",
+    "time": "16:00",
+    "group": "Group F",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-034",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Canada",
+    "date": "2022-11-27",
+    "time": "19:00",
+    "group": "Group F",
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 4,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-035",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Belgium",
+    "date": "2022-12-01",
+    "time": "18:00",
+    "group": "Group F",
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-036",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
+    "date": "2022-12-01",
+    "time": "18:00",
+    "group": "Group F",
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-037",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Cameroon",
+    "date": "2022-11-24",
+    "time": "13:00",
+    "group": "Group G",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-038",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Serbia",
+    "date": "2022-11-24",
+    "time": "22:00",
+    "group": "Group G",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-039",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Serbia",
+    "date": "2022-11-28",
+    "time": "13:00",
+    "group": "Group G",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 3,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-040",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "date": "2022-11-28",
+    "time": "19:00",
+    "group": "Group G",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-041",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Serbia",
+    "awayTeam": "Switzerland",
+    "date": "2022-12-02",
+    "time": "22:00",
+    "group": "Group G",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-042",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Brazil",
+    "date": "2022-12-02",
+    "time": "22:00",
+    "group": "Group G",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-043",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Korea Republic",
+    "date": "2022-11-24",
+    "time": "16:00",
+    "group": "Group H",
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-044",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "date": "2022-11-24",
+    "time": "19:00",
+    "group": "Group H",
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 3,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-045",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Ghana",
+    "date": "2022-11-28",
+    "time": "16:00",
+    "group": "Group H",
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-046",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Uruguay",
+    "date": "2022-11-28",
+    "time": "22:00",
+    "group": "Group H",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-047",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ghana",
+    "awayTeam": "Uruguay",
+    "date": "2022-12-02",
+    "time": "18:00",
+    "group": "Group H",
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-048",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Portugal",
+    "date": "2022-12-02",
+    "time": "18:00",
+    "group": "Group H",
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-049",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "USA",
+    "date": "2022-12-03",
+    "time": "18:00",
+    "group": null,
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-050",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Australia",
+    "date": "2022-12-03",
+    "time": "22:00",
+    "group": null,
+    "venue": "Ahmad bin Ali Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-051",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "France",
+    "awayTeam": "Poland",
+    "date": "2022-12-04",
+    "time": "18:00",
+    "group": null,
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-052",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "England",
+    "awayTeam": "Senegal",
+    "date": "2022-12-04",
+    "time": "22:00",
+    "group": null,
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-053",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "date": "2022-12-05",
+    "time": "18:00",
+    "group": null,
+    "venue": "Al Janoub Stadium, Al Wakrah",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 1,
+      "away": 3
+    },
+    "penaltyWinner": "Croatia"
+  },
+  {
+    "matchId": "WC2022-054",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Korea Republic",
+    "date": "2022-12-05",
+    "time": "22:00",
+    "group": null,
+    "venue": "Stadium 974, Doha",
+    "actualScore": {
+      "home": 4,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-055",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Morocco",
+    "awayTeam": "Spain",
+    "date": "2022-12-06",
+    "time": "18:00",
+    "group": null,
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 3,
+      "away": 0
+    },
+    "penaltyWinner": "Morocco"
+  },
+  {
+    "matchId": "WC2022-056",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Portugal",
+    "awayTeam": "Switzerland",
+    "date": "2022-12-06",
+    "time": "22:00",
+    "group": null,
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 6,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-057",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Croatia",
+    "awayTeam": "Brazil",
+    "date": "2022-12-09",
+    "time": "18:00",
+    "group": null,
+    "venue": "Education City Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 4,
+      "away": 2
+    },
+    "penaltyWinner": "Croatia"
+  },
+  {
+    "matchId": "WC2022-058",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "date": "2022-12-09",
+    "time": "22:00",
+    "group": null,
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 2,
+      "away": 2
+    },
+    "penaltyScore": {
+      "home": 3,
+      "away": 4
+    },
+    "penaltyWinner": "Argentina"
+  },
+  {
+    "matchId": "WC2022-059",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Morocco",
+    "awayTeam": "Portugal",
+    "date": "2022-12-10",
+    "time": "18:00",
+    "group": null,
+    "venue": "Al Thumama Stadium, Doha",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-060",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "England",
+    "awayTeam": "France",
+    "date": "2022-12-10",
+    "time": "22:00",
+    "group": null,
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-061",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "Argentina",
+    "awayTeam": "Croatia",
+    "date": "2022-12-13",
+    "time": "22:00",
+    "group": null,
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-062",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "France",
+    "awayTeam": "Morocco",
+    "date": "2022-12-14",
+    "time": "22:00",
+    "group": null,
+    "venue": "Al Bayt Stadium, Al Khor",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-063",
+    "stage": "THIRD_PLACE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Morocco",
+    "date": "2022-12-17",
+    "time": "18:00",
+    "group": null,
+    "venue": "Khalifa International Stadium, Al Rayyan",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2022-064",
+    "stage": "FINAL",
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "date": "2022-12-18",
+    "time": "18:00",
+    "group": null,
+    "venue": "Lusail Iconic Stadium, Lusail",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2022/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 3,
+      "away": 3
+    },
+    "penaltyScore": {
+      "home": 4,
+      "away": 2
+    },
+    "penaltyWinner": "Argentina"
+  }
+]

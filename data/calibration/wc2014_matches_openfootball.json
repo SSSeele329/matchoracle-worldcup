@@ -1,0 +1,1334 @@
+[
+  {
+    "matchId": "WC2014-001",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Croatia",
+    "date": "2014-06-12",
+    "time": "17:00 UTC-3",
+    "group": "Group A",
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-002",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Cameroon",
+    "date": "2014-06-13",
+    "time": "13:00 UTC-3",
+    "group": "Group A",
+    "venue": "Estádio das Dunas, Natal",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-003",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Mexico",
+    "date": "2014-06-17",
+    "time": "16:00 UTC-3",
+    "group": "Group A",
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-004",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Croatia",
+    "date": "2014-06-18",
+    "time": "18:00 UTC-4",
+    "group": "Group A",
+    "venue": "Arena Amazônia, Manaus",
+    "actualScore": {
+      "home": 0,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-005",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Brazil",
+    "date": "2014-06-23",
+    "time": "17:00 UTC-3",
+    "group": "Group A",
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 1,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-006",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Mexico",
+    "date": "2014-06-23",
+    "time": "17:00 UTC-3",
+    "group": "Group A",
+    "venue": "Arena Pernambuco, Recife",
+    "actualScore": {
+      "home": 1,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-007",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Netherlands",
+    "date": "2014-06-13",
+    "time": "16:00 UTC-3",
+    "group": "Group B",
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 1,
+      "away": 5
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-008",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Chile",
+    "awayTeam": "Australia",
+    "date": "2014-06-13",
+    "time": "18:00 UTC-4",
+    "group": "Group B",
+    "venue": "Arena Pantanal, Cuiabá",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-009",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Australia",
+    "awayTeam": "Netherlands",
+    "date": "2014-06-18",
+    "time": "13:00 UTC-3",
+    "group": "Group B",
+    "venue": "Estádio Beira-Rio, Porto Alegre",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-010",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Chile",
+    "date": "2014-06-18",
+    "time": "16:00 UTC-3",
+    "group": "Group B",
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-011",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Australia",
+    "awayTeam": "Spain",
+    "date": "2014-06-23",
+    "time": "13:00 UTC-3",
+    "group": "Group B",
+    "venue": "Arena da Baixada, Curitiba",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-012",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Chile",
+    "date": "2014-06-23",
+    "time": "13:00 UTC-3",
+    "group": "Group B",
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-013",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Colombia",
+    "awayTeam": "Greece",
+    "date": "2014-06-14",
+    "time": "13:00 UTC-3",
+    "group": "Group C",
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-014",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Côte d'Ivoire",
+    "awayTeam": "Japan",
+    "date": "2014-06-14",
+    "time": "22:00 UTC-3",
+    "group": "Group C",
+    "venue": "Arena Pernambuco, Recife",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-015",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Colombia",
+    "awayTeam": "Côte d'Ivoire",
+    "date": "2014-06-19",
+    "time": "13:00 UTC-3",
+    "group": "Group C",
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-016",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Greece",
+    "date": "2014-06-19",
+    "time": "19:00 UTC-3",
+    "group": "Group C",
+    "venue": "Estádio das Dunas, Natal",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-017",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Colombia",
+    "date": "2014-06-24",
+    "time": "16:00 UTC-4",
+    "group": "Group C",
+    "venue": "Arena Pantanal, Cuiabá",
+    "actualScore": {
+      "home": 1,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-018",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Greece",
+    "awayTeam": "Côte d'Ivoire",
+    "date": "2014-06-24",
+    "time": "17:00 UTC-3",
+    "group": "Group C",
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-019",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Costa Rica",
+    "date": "2014-06-14",
+    "time": "16:00 UTC-3",
+    "group": "Group D",
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 1,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-020",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "Italy",
+    "date": "2014-06-14",
+    "time": "18:00 UTC-4",
+    "group": "Group D",
+    "venue": "Arena Amazônia, Manaus",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-021",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Uruguay",
+    "awayTeam": "England",
+    "date": "2014-06-19",
+    "time": "16:00 UTC-3",
+    "group": "Group D",
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-022",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "Costa Rica",
+    "date": "2014-06-20",
+    "time": "13:00 UTC-3",
+    "group": "Group D",
+    "venue": "Arena Pernambuco, Recife",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-023",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "Uruguay",
+    "date": "2014-06-24",
+    "time": "13:00 UTC-3",
+    "group": "Group D",
+    "venue": "Estádio das Dunas, Natal",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-024",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "England",
+    "date": "2014-06-24",
+    "time": "13:00 UTC-3",
+    "group": "Group D",
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-025",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Ecuador",
+    "date": "2014-06-15",
+    "time": "13:00 UTC-3",
+    "group": "Group E",
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-026",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Honduras",
+    "date": "2014-06-15",
+    "time": "16:00 UTC-3",
+    "group": "Group E",
+    "venue": "Estádio Beira-Rio, Porto Alegre",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-027",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Switzerland",
+    "awayTeam": "France",
+    "date": "2014-06-20",
+    "time": "16:00 UTC-3",
+    "group": "Group E",
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 2,
+      "away": 5
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-028",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Honduras",
+    "awayTeam": "Ecuador",
+    "date": "2014-06-20",
+    "time": "19:00 UTC-3",
+    "group": "Group E",
+    "venue": "Arena da Baixada, Curitiba",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-029",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Honduras",
+    "awayTeam": "Switzerland",
+    "date": "2014-06-25",
+    "time": "16:00 UTC-4",
+    "group": "Group E",
+    "venue": "Arena Amazônia, Manaus",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-030",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ecuador",
+    "awayTeam": "France",
+    "date": "2014-06-25",
+    "time": "17:00 UTC-3",
+    "group": "Group E",
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-031",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Bosnia-Herzegovina",
+    "date": "2014-06-15",
+    "time": "19:00 UTC-3",
+    "group": "Group F",
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-032",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Iran",
+    "awayTeam": "Nigeria",
+    "date": "2014-06-16",
+    "time": "16:00 UTC-3",
+    "group": "Group F",
+    "venue": "Arena da Baixada, Curitiba",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-033",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Iran",
+    "date": "2014-06-21",
+    "time": "13:00 UTC-3",
+    "group": "Group F",
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-034",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Bosnia-Herzegovina",
+    "date": "2014-06-21",
+    "time": "18:00 UTC-4",
+    "group": "Group F",
+    "venue": "Arena Pantanal, Cuiabá",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-035",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Nigeria",
+    "awayTeam": "Argentina",
+    "date": "2014-06-25",
+    "time": "13:00 UTC-3",
+    "group": "Group F",
+    "venue": "Estádio Beira-Rio, Porto Alegre",
+    "actualScore": {
+      "home": 2,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-036",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Bosnia-Herzegovina",
+    "awayTeam": "Iran",
+    "date": "2014-06-25",
+    "time": "13:00 UTC-3",
+    "group": "Group F",
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-037",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Portugal",
+    "date": "2014-06-16",
+    "time": "13:00 UTC-3",
+    "group": "Group G",
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 4,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-038",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ghana",
+    "awayTeam": "USA",
+    "date": "2014-06-16",
+    "time": "19:00 UTC-3",
+    "group": "Group G",
+    "venue": "Estádio das Dunas, Natal",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-039",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Ghana",
+    "date": "2014-06-21",
+    "time": "16:00 UTC-3",
+    "group": "Group G",
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-040",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "USA",
+    "awayTeam": "Portugal",
+    "date": "2014-06-22",
+    "time": "18:00 UTC-4",
+    "group": "Group G",
+    "venue": "Arena Amazônia, Manaus",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-041",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "USA",
+    "awayTeam": "Germany",
+    "date": "2014-06-26",
+    "time": "13:00 UTC-3",
+    "group": "Group G",
+    "venue": "Arena Pernambuco, Recife",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-042",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "date": "2014-06-26",
+    "time": "13:00 UTC-3",
+    "group": "Group G",
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-043",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Belgium",
+    "awayTeam": "Algeria",
+    "date": "2014-06-17",
+    "time": "13:00 UTC-3",
+    "group": "Group H",
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-044",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Russia",
+    "awayTeam": "Korea Republic",
+    "date": "2014-06-17",
+    "time": "18:00 UTC-4",
+    "group": "Group H",
+    "venue": "Arena Pantanal, Cuiabá",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-045",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Belgium",
+    "awayTeam": "Russia",
+    "date": "2014-06-22",
+    "time": "13:00 UTC-3",
+    "group": "Group H",
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-046",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Algeria",
+    "date": "2014-06-22",
+    "time": "16:00 UTC-3",
+    "group": "Group H",
+    "venue": "Estádio Beira-Rio, Porto Alegre",
+    "actualScore": {
+      "home": 2,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-047",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Belgium",
+    "date": "2014-06-26",
+    "time": "17:00 UTC-3",
+    "group": "Group H",
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-048",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Algeria",
+    "awayTeam": "Russia",
+    "date": "2014-06-26",
+    "time": "17:00 UTC-3",
+    "group": "Group H",
+    "venue": "Arena da Baixada, Curitiba",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-049",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Chile",
+    "date": "2014-06-28",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 3,
+      "away": 2
+    },
+    "penaltyWinner": "Brazil"
+  },
+  {
+    "matchId": "WC2014-050",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Colombia",
+    "awayTeam": "Uruguay",
+    "date": "2014-06-28",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-051",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Mexico",
+    "date": "2014-06-29",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-052",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Greece",
+    "date": "2014-06-29",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Arena Pernambuco, Recife",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 5,
+      "away": 3
+    },
+    "penaltyWinner": "Costa Rica"
+  },
+  {
+    "matchId": "WC2014-053",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "France",
+    "awayTeam": "Nigeria",
+    "date": "2014-06-30",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-054",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Germany",
+    "awayTeam": "Algeria",
+    "date": "2014-06-30",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Beira-Rio, Porto Alegre",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "matchId": "WC2014-055",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Switzerland",
+    "date": "2014-07-01",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "matchId": "WC2014-056",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Belgium",
+    "awayTeam": "USA",
+    "date": "2014-07-01",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "matchId": "WC2014-057",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "France",
+    "awayTeam": "Germany",
+    "date": "2014-07-04",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-058",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Brazil",
+    "awayTeam": "Colombia",
+    "date": "2014-07-04",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Castelão, Fortaleza",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-059",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Argentina",
+    "awayTeam": "Belgium",
+    "date": "2014-07-05",
+    "time": "13:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-060",
+    "stage": "QUARTER_FINAL",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Costa Rica",
+    "date": "2014-07-05",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Arena Fonte Nova, Salvador",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 4,
+      "away": 3
+    },
+    "penaltyWinner": "Netherlands"
+  },
+  {
+    "matchId": "WC2014-061",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "Brazil",
+    "awayTeam": "Germany",
+    "date": "2014-07-08",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Mineirão, Belo Horizonte",
+    "actualScore": {
+      "home": 1,
+      "away": 7
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-062",
+    "stage": "SEMI_FINAL",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "date": "2014-07-09",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Arena de São Paulo, São Paulo",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 2,
+      "away": 4
+    },
+    "penaltyWinner": "Argentina"
+  },
+  {
+    "matchId": "WC2014-063",
+    "stage": "THIRD_PLACE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Netherlands",
+    "date": "2014-07-12",
+    "time": "17:00 UTC-3",
+    "group": null,
+    "venue": "Estádio Nacional Mané Garrincha, Brasília",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2014-064",
+    "stage": "FINAL",
+    "homeTeam": "Germany",
+    "awayTeam": "Argentina",
+    "date": "2014-07-13",
+    "time": "16:00 UTC-3",
+    "group": null,
+    "venue": "Estádio do Maracanã, Rio de Janeiro",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2014/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 0
+    }
+  }
+]

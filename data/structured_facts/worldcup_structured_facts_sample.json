@@ -1,0 +1,131 @@
+{
+  "provider": {
+    "providerId": "demo_structured_facts_fixture",
+    "category": "STRUCTURED_FACT_DATA_SOURCE",
+    "mode": "demo_fixture",
+    "productionReady": false
+  },
+  "source": "demo_only_worldcup_structured_facts_fixture",
+  "snapshotTime": "2026-06-01T12:00:00+00:00",
+  "auditContext": {
+    "purpose": "demo_only",
+    "not_official_data": true,
+    "createdFor": "TASK-034 smoke test",
+    "dataPolicy": "Synthetic local fixture; do not use as FIFA, Opta, bookmaker, or official feed data."
+  },
+  "facts": {
+    "fixtures": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "homeTeam": "Argentina",
+        "awayTeam": "France",
+        "stage": "GROUP_STAGE",
+        "venue": "Demo Stadium",
+        "kickoffAt": "2026-06-12T20:00:00+00:00",
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "kickoff_time": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "kickoffAt": "2026-06-12T20:00:00+00:00",
+        "timezone": "UTC",
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "match_status": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "status": "SCHEDULED",
+        "period": "PREMATCH",
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "official_lineups": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "homeTeam": "Argentina",
+        "awayTeam": "France",
+        "homeStarters": [
+          "ARG_DEMO_GK",
+          "ARG_DEMO_DF1",
+          "ARG_DEMO_DF2",
+          "ARG_DEMO_DF3",
+          "ARG_DEMO_DF4",
+          "ARG_DEMO_MF1",
+          "ARG_DEMO_MF2",
+          "ARG_DEMO_MF3",
+          "ARG_DEMO_FW1",
+          "ARG_DEMO_FW2",
+          "ARG_DEMO_FW3"
+        ],
+        "awayStarters": [
+          "FRA_DEMO_GK",
+          "FRA_DEMO_DF1",
+          "FRA_DEMO_DF2",
+          "FRA_DEMO_DF3",
+          "FRA_DEMO_DF4",
+          "FRA_DEMO_MF1",
+          "FRA_DEMO_MF2",
+          "FRA_DEMO_MF3",
+          "FRA_DEMO_FW1",
+          "FRA_DEMO_FW2",
+          "FRA_DEMO_FW3"
+        ],
+        "confirmedAt": "2026-06-12T19:00:00+00:00",
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "standings": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "group": "DEMO_GROUP",
+        "snapshotAt": "2026-06-01T12:00:00+00:00",
+        "teams": [
+          {
+            "team": "Argentina",
+            "played": 0,
+            "points": 0,
+            "goalDifference": 0
+          },
+          {
+            "team": "France",
+            "played": 0,
+            "points": 0,
+            "goalDifference": 0
+          }
+        ],
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "cards": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "homeYellowCards": 0,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ],
+    "market_odds_snapshots": [
+      {
+        "matchId": "demo-arg-fra-2026",
+        "snapshotTime": "2026-06-01T12:00:00+00:00",
+        "market": "1X2_REGULAR_TIME",
+        "homeOdds": 2.35,
+        "drawOdds": 3.2,
+        "awayOdds": 3.05,
+        "source": "demo_manual_fixture",
+        "demoOnly": true,
+        "notOfficialData": true
+      }
+    ]
+  }
+}

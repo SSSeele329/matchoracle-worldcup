@@ -1,0 +1,1326 @@
+[
+  {
+    "matchId": "WC2006-001",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Costa Rica",
+    "date": "2006-06-09",
+    "time": "",
+    "group": "Group A",
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 4,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-002",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Poland",
+    "awayTeam": "Ecuador",
+    "date": "2006-06-09",
+    "time": "",
+    "group": "Group A",
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-003",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Germany",
+    "awayTeam": "Poland",
+    "date": "2006-06-14",
+    "time": "",
+    "group": "Group A",
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-004",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Costa Rica",
+    "date": "2006-06-15",
+    "time": "",
+    "group": "Group A",
+    "venue": "AOL Arena, Hamburg",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-005",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Germany",
+    "date": "2006-06-20",
+    "time": "",
+    "group": "Group A",
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-006",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Poland",
+    "date": "2006-06-20",
+    "time": "",
+    "group": "Group A",
+    "venue": "AWD-Arena, Hannover",
+    "actualScore": {
+      "home": 1,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-007",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "Paraguay",
+    "date": "2006-06-10",
+    "time": "",
+    "group": "Group B",
+    "venue": "Commerzbank-Arena, Frankfurt",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-008",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Trinidad and Tobago",
+    "awayTeam": "Sweden",
+    "date": "2006-06-10",
+    "time": "",
+    "group": "Group B",
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-009",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "England",
+    "awayTeam": "Trinidad and Tobago",
+    "date": "2006-06-15",
+    "time": "",
+    "group": "Group B",
+    "venue": "Frankenstadion, Nürnberg",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-010",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Sweden",
+    "awayTeam": "Paraguay",
+    "date": "2006-06-15",
+    "time": "",
+    "group": "Group B",
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-011",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Sweden",
+    "awayTeam": "England",
+    "date": "2006-06-20",
+    "time": "",
+    "group": "Group B",
+    "venue": "RheinEnergieStadion, Köln",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-012",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Paraguay",
+    "awayTeam": "Trinidad and Tobago",
+    "date": "2006-06-20",
+    "time": "",
+    "group": "Group B",
+    "venue": "Fritz-Walter-Stadion, Kaiserslautern",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-013",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Côte d'Ivoire",
+    "date": "2006-06-10",
+    "time": "",
+    "group": "Group C",
+    "venue": "AOL Arena, Hamburg",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-014",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Serbia and Montenegro",
+    "awayTeam": "Netherlands",
+    "date": "2006-06-11",
+    "time": "",
+    "group": "Group C",
+    "venue": "Zentralstadion, Leipzig",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-015",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Argentina",
+    "awayTeam": "Serbia and Montenegro",
+    "date": "2006-06-16",
+    "time": "",
+    "group": "Group C",
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "actualScore": {
+      "home": 6,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-016",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Côte d'Ivoire",
+    "date": "2006-06-16",
+    "time": "",
+    "group": "Group C",
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-017",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Argentina",
+    "date": "2006-06-21",
+    "time": "",
+    "group": "Group C",
+    "venue": "Commerzbank-Arena, Frankfurt",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-018",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Côte d'Ivoire",
+    "awayTeam": "Serbia and Montenegro",
+    "date": "2006-06-21",
+    "time": "",
+    "group": "Group C",
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 3,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-019",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Iran",
+    "date": "2006-06-11",
+    "time": "",
+    "group": "Group D",
+    "venue": "Frankenstadion, Nürnberg",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-020",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Angola",
+    "awayTeam": "Portugal",
+    "date": "2006-06-11",
+    "time": "",
+    "group": "Group D",
+    "venue": "RheinEnergieStadion, Köln",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-021",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Mexico",
+    "awayTeam": "Angola",
+    "date": "2006-06-16",
+    "time": "",
+    "group": "Group D",
+    "venue": "AWD-Arena, Hannover",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-022",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Iran",
+    "date": "2006-06-17",
+    "time": "",
+    "group": "Group D",
+    "venue": "Commerzbank-Arena, Frankfurt",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-023",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Portugal",
+    "awayTeam": "Mexico",
+    "date": "2006-06-21",
+    "time": "",
+    "group": "Group D",
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-024",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Iran",
+    "awayTeam": "Angola",
+    "date": "2006-06-21",
+    "time": "",
+    "group": "Group D",
+    "venue": "Zentralstadion, Leipzig",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-025",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "Ghana",
+    "date": "2006-06-12",
+    "time": "",
+    "group": "Group E",
+    "venue": "AWD-Arena, Hannover",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-026",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "USA",
+    "awayTeam": "Czech Republic",
+    "date": "2006-06-12",
+    "time": "",
+    "group": "Group E",
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "actualScore": {
+      "home": 0,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-027",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Italy",
+    "awayTeam": "USA",
+    "date": "2006-06-17",
+    "time": "",
+    "group": "Group E",
+    "venue": "Fritz-Walter-Stadion, Kaiserslautern",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-028",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Czech Republic",
+    "awayTeam": "Ghana",
+    "date": "2006-06-17",
+    "time": "",
+    "group": "Group E",
+    "venue": "RheinEnergieStadion, Köln",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-029",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Czech Republic",
+    "awayTeam": "Italy",
+    "date": "2006-06-22",
+    "time": "",
+    "group": "Group E",
+    "venue": "AOL Arena, Hamburg",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-030",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ghana",
+    "awayTeam": "USA",
+    "date": "2006-06-22",
+    "time": "",
+    "group": "Group E",
+    "venue": "Frankenstadion, Nürnberg",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-031",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Croatia",
+    "date": "2006-06-13",
+    "time": "",
+    "group": "Group F",
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-032",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Australia",
+    "awayTeam": "Japan",
+    "date": "2006-06-12",
+    "time": "",
+    "group": "Group F",
+    "venue": "Fritz-Walter-Stadion, Kaiserslautern",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-033",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Brazil",
+    "awayTeam": "Australia",
+    "date": "2006-06-18",
+    "time": "",
+    "group": "Group F",
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-034",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "date": "2006-06-18",
+    "time": "",
+    "group": "Group F",
+    "venue": "Frankenstadion, Nürnberg",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-035",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Japan",
+    "awayTeam": "Brazil",
+    "date": "2006-06-22",
+    "time": "",
+    "group": "Group F",
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 1,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-036",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Croatia",
+    "awayTeam": "Australia",
+    "date": "2006-06-22",
+    "time": "",
+    "group": "Group F",
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-037",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Switzerland",
+    "date": "2006-06-13",
+    "time": "",
+    "group": "Group G",
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-038",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Korea Republic",
+    "awayTeam": "Togo",
+    "date": "2006-06-13",
+    "time": "",
+    "group": "Group G",
+    "venue": "Commerzbank-Arena, Frankfurt",
+    "actualScore": {
+      "home": 2,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-039",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "France",
+    "awayTeam": "Korea Republic",
+    "date": "2006-06-18",
+    "time": "",
+    "group": "Group G",
+    "venue": "Zentralstadion, Leipzig",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-040",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Togo",
+    "awayTeam": "Switzerland",
+    "date": "2006-06-19",
+    "time": "",
+    "group": "Group G",
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-041",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Togo",
+    "awayTeam": "France",
+    "date": "2006-06-23",
+    "time": "",
+    "group": "Group G",
+    "venue": "RheinEnergieStadion, Köln",
+    "actualScore": {
+      "home": 0,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-042",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Korea Republic",
+    "date": "2006-06-23",
+    "time": "",
+    "group": "Group G",
+    "venue": "AWD-Arena, Hannover",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-043",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Ukraine",
+    "date": "2006-06-14",
+    "time": "",
+    "group": "Group H",
+    "venue": "Zentralstadion, Leipzig",
+    "actualScore": {
+      "home": 4,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-044",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Saudi Arabia",
+    "date": "2006-06-14",
+    "time": "",
+    "group": "Group H",
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 2,
+      "away": 2
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-045",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Spain",
+    "awayTeam": "Tunisia",
+    "date": "2006-06-19",
+    "time": "",
+    "group": "Group H",
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-046",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Ukraine",
+    "date": "2006-06-19",
+    "time": "",
+    "group": "Group H",
+    "venue": "AOL Arena, Hamburg",
+    "actualScore": {
+      "home": 0,
+      "away": 4
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-047",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Spain",
+    "date": "2006-06-23",
+    "time": "",
+    "group": "Group H",
+    "venue": "Fritz-Walter-Stadion, Kaiserslautern",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-048",
+    "stage": "GROUP_STAGE",
+    "homeTeam": "Ukraine",
+    "awayTeam": "Tunisia",
+    "date": "2006-06-23",
+    "time": "",
+    "group": "Group H",
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-049",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Germany",
+    "awayTeam": "Sweden",
+    "date": "2006-06-24",
+    "time": "",
+    "group": null,
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 2,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-050",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "date": "2006-06-24",
+    "time": "",
+    "group": null,
+    "venue": "Zentralstadion, Leipzig",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "matchId": "WC2006-051",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "England",
+    "awayTeam": "Ecuador",
+    "date": "2006-06-25",
+    "time": "",
+    "group": null,
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-052",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Portugal",
+    "awayTeam": "Netherlands",
+    "date": "2006-06-25",
+    "time": "",
+    "group": null,
+    "venue": "Frankenstadion, Nürnberg",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-053",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Italy",
+    "awayTeam": "Australia",
+    "date": "2006-06-26",
+    "time": "",
+    "group": null,
+    "venue": "Fritz-Walter-Stadion, Kaiserslautern",
+    "actualScore": {
+      "home": 1,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-054",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Ukraine",
+    "date": "2006-06-26",
+    "time": "",
+    "group": null,
+    "venue": "RheinEnergieStadion, Köln",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 0,
+      "away": 3
+    },
+    "penaltyWinner": "Ukraine"
+  },
+  {
+    "matchId": "WC2006-055",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Brazil",
+    "awayTeam": "Ghana",
+    "date": "2006-06-27",
+    "time": "",
+    "group": null,
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-056",
+    "stage": "ROUND_OF_16",
+    "homeTeam": "Spain",
+    "awayTeam": "France",
+    "date": "2006-06-27",
+    "time": "",
+    "group": null,
+    "venue": "AWD-Arena, Hannover",
+    "actualScore": {
+      "home": 1,
+      "away": 3
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-057",
+    "stage": "Quarterfinals",
+    "homeTeam": "Germany",
+    "awayTeam": "Argentina",
+    "date": "2006-06-30",
+    "time": "",
+    "group": null,
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 4,
+      "away": 2
+    },
+    "penaltyWinner": "Germany"
+  },
+  {
+    "matchId": "WC2006-058",
+    "stage": "Quarterfinals",
+    "homeTeam": "Italy",
+    "awayTeam": "Ukraine",
+    "date": "2006-06-30",
+    "time": "",
+    "group": null,
+    "venue": "AOL Arena, Hamburg",
+    "actualScore": {
+      "home": 3,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-059",
+    "stage": "Quarterfinals",
+    "homeTeam": "England",
+    "awayTeam": "Portugal",
+    "date": "2006-07-01",
+    "time": "",
+    "group": null,
+    "venue": "Veltins-Arena, Gelsenkirchen",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 0
+    },
+    "penaltyScore": {
+      "home": 1,
+      "away": 3
+    },
+    "penaltyWinner": "Portugal"
+  },
+  {
+    "matchId": "WC2006-060",
+    "stage": "Quarterfinals",
+    "homeTeam": "Brazil",
+    "awayTeam": "France",
+    "date": "2006-07-01",
+    "time": "",
+    "group": null,
+    "venue": "Commerzbank-Arena, Frankfurt",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-061",
+    "stage": "Semifinals",
+    "homeTeam": "Germany",
+    "awayTeam": "Italy",
+    "date": "2006-07-04",
+    "time": "",
+    "group": null,
+    "venue": "Signal Iduna Park, Dortmund",
+    "actualScore": {
+      "home": 0,
+      "away": 0
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  {
+    "matchId": "WC2006-062",
+    "stage": "Semifinals",
+    "homeTeam": "Portugal",
+    "awayTeam": "France",
+    "date": "2006-07-05",
+    "time": "",
+    "group": null,
+    "venue": "Allianz Arena, München",
+    "actualScore": {
+      "home": 0,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-063",
+    "stage": "Third-place play-off",
+    "homeTeam": "Germany",
+    "awayTeam": "Portugal",
+    "date": "2006-07-08",
+    "time": "",
+    "group": null,
+    "venue": "Gottlieb-Daimler-Stadion, Stuttgart",
+    "actualScore": {
+      "home": 3,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    }
+  },
+  {
+    "matchId": "WC2006-064",
+    "stage": "FINAL",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "date": "2006-07-09",
+    "time": "",
+    "group": null,
+    "venue": "Olympiastadion, Berlin",
+    "actualScore": {
+      "home": 1,
+      "away": 1
+    },
+    "source": {
+      "provider": "openfootball/worldcup.json",
+      "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2006/worldcup.json",
+      "scoreField": "score.ft",
+      "scoreMeaning": "90-minute regular time plus stoppage time"
+    },
+    "afterExtraTimeScore": {
+      "home": 1,
+      "away": 1
+    },
+    "penaltyScore": {
+      "home": 5,
+      "away": 3
+    },
+    "penaltyWinner": "Italy"
+  }
+]

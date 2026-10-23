@@ -1,0 +1,51 @@
+services:
+  web:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    env_file:
+      - ./production.env
+    environment:
+      PORT: "5012"
+      MATCHORACLE_APP_ENV: production
+      MATCHORACLE_WORKER_RUNTIME_CONFIGURED: "1"
+      MATCHORACLE_SNAPSHOT_STORE: /var/lib/matchoracle/prediction_snapshots.sqlite3
+      MATCHORACLE_JOB_QUEUE_STORE: /var/lib/matchoracle/background_jobs.sqlite3
+      MATCHORACLE_ODDS_STORE: /var/lib/matchoracle/market_odds.sqlite3
+      MATCHORACLE_STRUCTURED_FACTS_STORE: /var/lib/matchoracle/structured_facts.sqlite3
+    ports:
+      - "5012:5012"
+    volumes:
+      - matchoracle-data:/var/lib/matchoracle
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:5012/api/health', timeout=5).read()"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+    restart: unless-stopped
+
+  worker:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    command: ["python3", "scripts/run_production_worker.py", "--base-url", "http://web:5012", "--sleep-seconds", "5"]
+    env_file:
+      - ./production.env
+    environment:
+      MATCHORACLE_APP_ENV: production
+      MATCHORACLE_APP_BASE_URL: http://web:5012
+      MATCHORACLE_WORKER_RUNTIME_CONFIGURED: "1"
+      MATCHORACLE_SNAPSHOT_STORE: /var/lib/matchoracle/prediction_snapshots.sqlite3
+      MATCHORACLE_JOB_QUEUE_STORE: /var/lib/matchoracle/background_jobs.sqlite3
+      MATCHORACLE_ODDS_STORE: /var/lib/matchoracle/market_odds.sqlite3
+      MATCHORACLE_STRUCTURED_FACTS_STORE: /var/lib/matchoracle/structured_facts.sqlite3
+    depends_on:
+      web:
+        condition: service_healthy
+    volumes:
+      - matchoracle-data:/var/lib/matchoracle
+    restart: unless-stopped
+
+volumes:
+  matchoracle-data:

@@ -1,0 +1,13 @@
+.DS_Store
+.git
+.pytest_cache
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.sqlite3
+*.db
+htmlcov
+.coverage
+reports/release_readiness_summary.txt
+deploy/local.internal.env

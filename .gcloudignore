@@ -1,0 +1,15 @@
+.gcloudignore
+.git
+.DS_Store
+.pytest_cache
+.venv
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+*.db
+htmlcov/
+.coverage
+reports/
+deploy/local.internal.env
