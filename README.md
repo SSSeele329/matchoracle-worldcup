@@ -4,7 +4,7 @@
 
 > 当前项目处于研究与验证阶段。历史验证显示，概率校准仍有明显改进空间；本项目不构成投注建议，也没有证据证明它能够稳定优于市场或简单基线。
 
-仓库只发布源代码和可公开的数据样例。这里**没有部署线上网站或在线服务**。仓库保留了可在本机运行的 Flask 页面和 API，供开发、演示和模型调用；运行它不代表项目已接入实时数据或具备生产服务能力。
+本仓库按常见开源项目的方式发布代码、数据来源说明和必要样例，不提供线上网站或托管服务。项目包含 Flask 应用代码，但它只是仓库中的可选接口实现，不是项目主页或在线产品。
 
 ## 项目定义
 
@@ -131,7 +131,7 @@ flowchart TD
 - 未核实再分发许可的 Elo 快照、运行时数据库、凭据和生成报告不随仓库发布。
 - 使用者应自行核实上游数据许可、服务条款及本地使用权限。
 
-## 本地运行
+## 安装
 
 需要 Python 3.10 或更高版本。
 
@@ -141,38 +141,40 @@ cd matchoracle-worldcup
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python app.py
 ```
 
-本机开发时可访问 `http://127.0.0.1:5012`。这是本地运行入口，不是在线部署地址。没有配置外部数据 provider 时，不会自动获得实时赛程、官方首发或赔率。仓库中的 `deploy/*.example` 是配置模板；使用前应复制为本地私有配置，并通过环境变量提供自己的授权凭据，不要提交密钥或 `.env` 文件。
+## 使用示例
 
-### API 示例
+可以直接调用预测器。下面的球队与数据仅用于展示输入格式，不代表真实赛前信息或预测结论：
 
-本地服务启动后，可向 `/api/predict` 提交结构化赛前输入：
+```python
+from src.worldcup.predictor import WorldCupPredictor
 
-```bash
-curl -X POST http://127.0.0.1:5012/api/predict \
-  -H 'Content-Type: application/json' \
-  -d '{
+match_input = {
     "matchId": "demo-match",
     "match": {
-      "homeTeam": "Argentina",
-      "awayTeam": "France",
-      "stage": "FINAL",
-      "datetime": "2026-07-19T19:00:00Z"
+        "homeTeam": "Argentina",
+        "awayTeam": "France",
+        "stage": "FINAL",
+        "datetime": "2026-07-19T19:00:00Z",
     },
     "teamData": {
-      "home": {"fifaRank": 1, "recentFormScore": 0.7},
-      "away": {"fifaRank": 2, "recentFormScore": 0.6}
+        "home": {"fifaRank": 1, "recentFormScore": 0.7},
+        "away": {"fifaRank": 2, "recentFormScore": 0.6},
     },
     "goalData": {
-      "home": {"actualGoals_avg": 1.8, "actualConceded_avg": 0.8},
-      "away": {"actualGoals_avg": 1.7, "actualConceded_avg": 0.9}
-    }
-  }'
+        "home": {"actualGoals_avg": 1.8, "actualConceded_avg": 0.8},
+        "away": {"actualGoals_avg": 1.7, "actualConceded_avg": 0.9},
+    },
+}
+
+result = WorldCupPredictor().predict(match_input)
+print(result["predictionLayers"]["regularTime"]["probabilities"])
 ```
 
-示例中的球队输入仅说明请求结构，不是事实数据或预测结论。完整可选字段和数据约束以 [`src/worldcup/predictor.py`](src/worldcup/predictor.py)、provider contracts 以及结构化数据样例为准。最基本的球队强度字段缺失时，可靠性检查会熔断预测。
+完整可选字段和数据约束以 [`src/worldcup/predictor.py`](src/worldcup/predictor.py)、provider contracts 以及结构化数据样例为准。最基本的球队强度字段缺失时，可靠性检查会熔断预测。没有配置外部数据 provider 时，项目不会自动获得实时赛程、官方首发或赔率。`deploy/*.example` 是配置模板；请通过本地环境变量提供自己有权使用的凭据，不要提交密钥或 `.env` 文件。
+
+如需使用 Flask API，可运行 `python app.py` 启动应用，再向 `POST /api/predict` 发送 JSON 输入。API 和快照路由列在下表；本仓库不提供在线实例。
 
 ### 主要 API 路由
 
